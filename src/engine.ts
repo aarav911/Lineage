@@ -21,6 +21,7 @@ export class CanvasEngine {
         this.canvas.width = window.innerWidth;
         this.canvas.height = window.innerHeight;
     }
+    
 
     // The loop accepts a "renderable" object with a draw method
     public start(renderable: { draw: (ctx: CanvasRenderingContext2D, w: number, h: number) => void }) {

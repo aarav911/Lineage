@@ -1,13 +1,152 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Lineage</title>
-</head>
 <body>
-    <canvas id="canvas"></canvas>
+
+    <!-- Sidebar -->
+    <div id="sidebar">
+
+        <h1>Graph Viewer</h1>
+
+        <div id="controls">
+    <label>
+        Repulsion:
+        <span id="repulsionValue">5000</span>
+        <input
+            id="repulsion"
+            type="range"
+            min="100"
+            max="20000"
+            step="100"
+            value="5000"
+        />
+    </label>
+
+    <label>
+        Spring:
+        <span id="springValue">0.01</span>
+        <input
+            id="spring"
+            type="range"
+            min="0.001"
+            max="0.1"
+            step="0.001"
+            value="0.01"
+        />
+    </label>
+
+    <label>
+        Spring Length:
+        <span id="springLengthValue">200</span>
+        <input
+            id="springLength"
+            type="range"
+            min="20"
+            max="500"
+            step="5"
+            value="200"
+        />
+    </label>
+
+    <label>
+        Damping:
+        <span id="dampingValue">0.99</span>
+        <input
+            id="damping"
+            type="range"
+            min="0.80"
+            max="1"
+            step="0.01"
+            value="0.99"
+        />
+    </label>
+</div>
+
+        <!-- Nodes -->
+        <section>
+            <h2>Nodes</h2>
+
+            <input
+                type="text"
+                id="node-name"
+                placeholder="Node Name"
+            />
+
+            <button id="add-node-btn">
+                Add Node
+            </button>
+
+            <button id="remove-node-btn">
+                Remove Node
+            </button>
+        </section>
+
+        <hr>
+
+        <!-- Edges -->
+        <section>
+            <h2>Edges</h2>
+
+            <input
+                type="text"
+                id="source-node"
+                placeholder="Source Node"
+            />
+
+            <input
+                type="text"
+                id="target-node"
+                placeholder="Target Node"
+            />
+
+            <button id="add-edge-btn">
+                Add Edge
+            </button>
+
+            <button id="remove-edge-btn">
+                Remove Edge
+            </button>
+        </section>
+
+        <hr>
+
+        <!-- Graph Controls -->
+        <section>
+            <h2>Graph Controls</h2>
+
+            <button id="start-rebuild-btn">
+                Rebuild Graph
+            </button>
+
+            <button id="clear-btn">
+                Clear Graph
+            </button>
+        </section>
+
+        <hr>
+
+        <!-- Random Graph -->
+        <section>
+            <h2>Random Graph</h2>
+
+            <input
+                type="number"
+                id="random-node-count"
+                placeholder="Number of Nodes"
+                min="1"
+            />
+
+            <button id="generate-random-graph-btn">
+                Generate Random Graph
+            </button>
+        </section>
+
+        <hr>
+
+    </div>
+
+    <!-- Canvas Area -->
+    <div id="graph-container">
+        <canvas id="canvas"></canvas>
+    </div>
 
     <script type="module" src="/src/main.ts"></script>
+
 </body>
-</html>
