@@ -1,0 +1,300 @@
+{
+    "offset": 0,
+    "citingPaperInfo": {
+        "openAccessPdf": {
+            "url": "http://www.jbc.org/article/S0021925818678512/pdf",
+            "status": "HYBRID",
+            "license": "CCBY",
+            "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.273.10.5858?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.273.10.5858, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "title": "DNA Double-stranded Breaks Induce Histone H2AX Phosphorylation on Serine 139*",
+        "authors": [
+            {
+                "authorId": "5527635",
+                "name": "E. Rogakou"
+            },
+            {
+                "authorId": "4617265",
+                "name": "D. Pilch"
+            },
+            {
+                "authorId": "47070684",
+                "name": "A. Orr"
+            },
+            {
+                "authorId": "2837757",
+                "name": "V. Ivanova"
+            },
+            {
+                "authorId": "145780148",
+                "name": "W. Bonner"
+            }
+        ]
+    },
+    "data": [
+        {
+            "citedPaper": {
+                "paperId": "4c91b5b91b5b17cb655d0fa9ee638d88e45ae983",
+                "title": "Physical and Chemical Mechanisms in Molecular Radiation Biology"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "1a4d35412117b68655dfcabe150674cace542d87",
+                "title": "Crystal structure of the nucleosome core particle at 2.8\u2009\u00c5 resolution"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "be6b51a0129020a00f5e12abcf40c4908ab59ca0",
+                "title": "Cancer chemotherapy and biotherapy: Principles and practice"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "24abc5ef594cbe7695136365fa0eb5f58c5675b0",
+                "title": "Evidence for DNA-PK-dependent and -independent DNA double-strand break repair pathways in mammalian cells as a function of the cell cycle"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "9a39e34195fe0f1f2832597590ae0568a497ec44",
+                "title": "Requirement for Ku80 in growth and immunoglobulin V(D)J recombination"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "522d6c1108fac64813b4c377f43f862710bb00d0",
+                "title": "Tetrahymena histone acetyltransferase A: a homolog to yeast Gcn5p linking histone acetylation to gene activation."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "c755c7fca438128327f8aa3083d4c830b2ad804d",
+                "title": "Protective effect of dipyridamole against lethality and lipid peroxidation in liver and spleen of the ddY mouse after whole-body irradiation."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "318b5c54834170a8cdd48ec6ae9ef630457282ff",
+                "title": "Evidence for the organization of chromatin in megabase pair-sized loops arranged along a random walk path in the human G0/G1 interphase nucleus"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "dcdcd8768e776dd0f1636a0773b378f720cbf4a8",
+                "title": "Nomenclature of human genes involved in ionizing radiation sensitivity."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "2d6888541309e8deba854dc225e8c931bce66f46",
+                "title": "Evidence for separate mechanisms of cytotoxicity in mammalian cells treated with hydrogen peroxide in the absence or presence of L-histidine."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "2088efc34ea2dc0fe6fd73ad6e08eed2b9675ec7",
+                "title": "Histone H4 acetylation distinguishes coding regions of the human genome from heterochromatin in a differentiation\u2010dependent but transcription\u2010independent manner."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "fb1d02527db67bedd4f26f30ff68eed7a12132e9",
+                "title": "A single ataxia telangiectasia gene with a product similar to PI-3 kinase."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "f84be67df05fc01635c2bdf1ba199dd1bf5a13c8",
+                "title": "Mammalian mutants defective in the response to ionizing radiation-induced DNA damage."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "4251b5a1e7bbe1fa3c7fff2b6cae72c4f2c9ca61",
+                "title": "DNA-dependent kinase (p350) as a candidate gene for the murine SCID defect"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "825c74aa8d5cc3ee2978ae6bb494576cb3c8cfe4",
+                "title": "Absence of p350 subunit of DNA-activated protein kinase from a radiosensitive human cell line"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "8d03b4b797e91119c87a5a944169690eb0501377",
+                "title": "Nucleosomal anatomy--where are the histones?"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "5246ae6198a8549eb8129d2841344e34be6b6d35",
+                "title": "The complexity of DNA damage: relevance to biological consequences."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "2b6ef5d3c99f02e878f40cbd66fcebecc9058fa4",
+                "title": "Phylogenetic analysis of the core histones H2A, H2B, H3, and H4."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "8f77c70ff02d16e9f5a54efed1c698d8828a1e1d",
+                "title": "DNA damage and the DNA-activated protein kinase."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "cdfbe11d8649e205fb6707a6f2a6b18a757c2723",
+                "title": "A new method for introducing double-strand breaks into cellular DNA."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "26d295d24b68fa3a70e25447928db8c4ed5ff1ab",
+                "title": "Which histone kinase?"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "0a0b0d66711914252661666e87d4f66e0f7a5db2",
+                "title": "A hit-and-run system for targeted genetic manipulations in yeast."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "f4b73785c8d18dd589e8218d92e95c00db671ad6",
+                "title": "Polyadenylated and 3' processed mRNAs are transcribed from the mouse histone H2A.X gene."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "dcb2a2e273491ec9c7a516916d303ff7def02e34",
+                "title": "The regulation of histone gene expression during the cell cycle."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "d1009a6b3cbdedff6deeccd467e8e119f17bf6f6",
+                "title": "H2A.X. a histone isoprotein with a conserved C-terminal sequence, is encoded by a novel mRNA with both DNA replication type and polyA 3' processing signals."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "3e038d90e8a577635cb377e3fd4fec1e8ae03441",
+                "title": "Acetylation and calcium-dependent phosphorylation of histone H3 in nuclei from butyrate-treated HeLa cells."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "52e928e19616f6c967a44426ff0e4cb4401216de",
+                "title": "Quantitative determination of histone modification. H2A acetylation and phosphorylation."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "bdf753b14fd1f8d8e2a48afe6f8d73aff2687b83",
+                "title": "Mid-prophase human chromosomes. The attainment of 2000 bands"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "7fc7a1d464f7233182ede63780f11f5a57ecd052",
+                "title": "Calcium-dependent phosphorylation of histone H3 in butyrate-treated HeLa cells"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "67a1d42cfd0160cf4dead282e968254ed397d1b7",
+                "title": "Two-dimensional gel analysis of histones in acid extracts of nuclei, cells, and tissues."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "de9605bfeeff19dcc2892dc38b540b9fa59def78",
+                "title": "Histone 2A, a heteromorphous family of eight protein species."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "fe4f1d544adf62c1889e05812f8bd0145e577054",
+                "title": "Phosphorylation and acetylation of chromatin conjugate protein A24."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "f7aaea7d321b536c7ebe25eaa686f4ee51b989bb",
+                "title": "Protein kinase in HeLA nucleosomes: a reevaluation of the interactions of histomes with the ends of core particle DNA."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "2dee9a711138fc31d43091cd104800417750ec13",
+                "title": "Histone phosphorylation and chromatin structure during mitosis in Chinese hamster cells."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "66a151168909dfc14ff0d56b1a95820383f5ca3c",
+                "title": "Control of Cell Division by Very Lysine Rich Histone (F1) Phosphorylation"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "832c7a1e14ccf89197df384f23821c3ba1249b2f",
+                "title": "Histone Sequence Database: a compilation of highly-conserved nucleoprotein sequences"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": null,
+                "title": "Association for Gnotobiotics"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "7ea319c5d2fa07d609260977da48b169c75e8788",
+                "title": "DNA damage and repair."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": null,
+                "title": "Chromatin, Springer-Verlag New York Inc"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": null,
+                "title": "DNA Double-stranded Breaks Induce H2AX Phosphorylation"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "8abb20536586c179d65cb57790974b1523ef97b7",
+                "title": "A screening method for isolating DNA repair-deficient mutants of CHO cells"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": "b5f4a642fa2ebdfce8558c1426ce6ad92952e860",
+                "title": "Resolution of histones by polyacrylamide gel electrophoresis in presence of nonionic detergents."
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": null,
+                "title": "Radiation Protection in Animals Reinhold"
+            }
+        },
+        {
+            "citedPaper": {
+                "paperId": null,
+                "title": "in Advances in Radiobiology ( Hevesy , G . C . , Forssberg , A . G . , and"
+            }
+        }
+    ]
+}
